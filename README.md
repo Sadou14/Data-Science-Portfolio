@@ -14,11 +14,11 @@ Supervised machine learning (text classification): The objective of this projet 
 
 Latent Dirichlet Allocation and Non-Negative Matrix factorization topic modelling for unsupervised machine learning to analyze fake news  text data by clustering the documents into groups.
 
--## Micro Projects:
+- ## Micro Projects:
 
 -ML with Multiple Linear Regression Using Multiple Linear Regression to predict gas consumptions.
 
--## Web-Crawlers
+- ## Web-Crawlers
 
 Using Xpath to web crawlers or scrape website, Xpath a powerful framework for extracting, processing, and storing web data.
 
