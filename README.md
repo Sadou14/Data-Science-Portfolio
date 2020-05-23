@@ -4,7 +4,7 @@ Repository containing portfolio of data science projects completed for academic,
 ## Contents
 - ## Machine Learning
 
-Twitter Sentiment Analysis: A model to analyse and predict whether a tweet contains positive, negative, or neutral sentiment about coronavirus.
+[Twitter Sentiment Analysis:](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/Twitter_Sentiment_Analysis.ipynb) A model to analyse and predict whether a tweet contains positive, negative, or neutral sentiment about coronavirus.
 
 Performing Sentiment Analysis on given tweets about six US airlines,from Twitter using machine learning to help companies understand how people are talking about their brand.
 
