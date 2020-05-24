@@ -31,5 +31,5 @@ Repository containing portfolio of data science projects completed for academic,
   - [Web crawling:](https://github.com/Sadou14/Web-Crawlers/blob/master/Web_Crawling_ScrapingClub.ipynb) Using Xpath to web crawlers or scrape website, Xpath a powerful framework for extracting, processing, and storing web data.
   
   
-  If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at ([soumanasadou@gmail.com]).
+  If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at (soumanasadou@gmail.com).
 
