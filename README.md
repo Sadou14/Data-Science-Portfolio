@@ -10,7 +10,7 @@ Repository containing portfolio of data science projects completed for academic,
 
    - [Diamond Price:](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/diamond_price.ipynb) A model to predict the value of      a given diamond price using various statistical analysis tools. Identified the best price that a client can sell their                  diamond utilizing machine learning.
 
-   - [Supervised machine learning (text classification):](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/Machine_Learning      %2C_NLP_Text%20Classification.ipynb) The objective of this projet is To build a text classification (or predictive) model, that          contains texts (news articles) and labels (either HR[1] or non-HR[0]). Based on reviews analysis whether it is HR or NON- HR by the      used of sentence-level classification. Specifically, it aims to apply sklearn, NLP, classifier,the Naive Bayes algorithm KNN and        SVM Support Vector Machines Algorithm. 
+   - [Supervised machine learning (text classification):] The objective of this projet is To build a text classification (or predictive) model, that          contains texts (news articles) and labels (either HR[1] or non-HR[0]). Based on reviews analysis whether it is HR or NON- HR by the      used of sentence-level classification. Specifically, it aims to apply sklearn, NLP, classifier,the Naive Bayes algorithm KNN and        SVM Support Vector Machines Algorithm. 
 
   - Latent Dirichlet Allocation and Non-Negative Matrix factorization topic modelling for unsupervised machine learning to analyze fake     news  text data by clustering the documents into groups.
 
