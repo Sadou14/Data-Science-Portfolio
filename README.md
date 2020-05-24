@@ -18,6 +18,8 @@ Repository containing portfolio of data science projects completed for academic,
 
 - [ML with Multiple Linear Regression:](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/ML%20Micro%20Projects/MultipleLinearRegression.ipynb) Using Multiple Linear Regression to predict gas consumptions.
 
+- [Managing Machine Learning:]() Workflows with Scikit-learn Pipelines
+
 - ## Web-Crawlers
 
   - Web crawling: Using Xpath to web crawlers or scrape website, Xpath a powerful framework for extracting, processing, and storing web     data.
