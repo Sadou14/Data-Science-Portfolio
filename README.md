@@ -8,7 +8,7 @@ Repository containing portfolio of data science projects completed for academic,
 
    - [Supervised Learning:](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/Sentiment_analysis.ipynb) Performing Sentiment      Analysis on given tweets about six US airlines, from Twitter using machine learning to      help companies how understand people        are talking about their brand.
 
-   - Diamond Price A model to predict the value of a given diamond price using various statistical analysis tools. Identified the best        price that a client can sell their diamond utilizing machine learning.
+   - [Diamond Price:](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/diamond_price.ipynb) A model to predict the value of      a given diamond price using various statistical analysis tools. Identified the best        price that a client can sell their            diamond utilizing machine learning.
 
    - Supervised machine learning (text classification): The objective of this projet is To build a text classification (or predictive)       model, that contains texts (news articles) and labels (either HR[1] or non-HR[0]). Based on reviews analysis whether it is HR or         NON-HR by the used of sentence-level classification. Specifically, it aims to apply sklearn, NLP, classifier,the Naive Bayes             algorithm KNN and SVM Support Vector Machines Algorithm. 
 
