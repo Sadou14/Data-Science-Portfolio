@@ -18,7 +18,7 @@ Repository containing portfolio of data science projects completed for academic,
 
 - [ML with Multiple Linear Regression:](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/ML%20Micro%20Projects/MultipleLinearRegression.ipynb) Using Multiple Linear Regression to predict gas consumptions.
 
-- [Managing Machine Learning:]() Workflows with Scikit-learn Pipelines
+- [Managing Machine Learning:](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/ML%20Micro%20Projects/ML_Pipelines.ipynb) Workflows with Scikit-learn Pipelines
 
 - ## Web-Crawlers
 
