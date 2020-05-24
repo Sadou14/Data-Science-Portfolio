@@ -12,7 +12,7 @@ Repository containing portfolio of data science projects completed for academic,
 
    - [Supervised machine learning (text classification):](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/Machine_Learning%2C_NLP_Text%20Classification.ipynb) The objective of this projet is To build a text classification (or predictive) model. Based on reviews analysis whether it is HR or NON- HR by the used of sentence-level classification. Specifically, it aims to apply sklearn, NLP, classifier,the Naive Bayes algorithm KNN and SVM Support Vector Machines Algorithm. 
 
-  - Latent Dirichlet Allocation and Non-Negative Matrix factorization topic modelling for unsupervised machine learning to analyze fake     news  text data by clustering the documents into groups.
+  - [Latent Dirichlet Allocation and Non-Negative Matrix factorization:](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/Topic_modelling_unsupervised_machine-learning.ipynb) Topic modelling for unsupervised machine learning to analyze fake     news  text data by clustering the documents into groups.
 
 - ## Micro Projects:
 
