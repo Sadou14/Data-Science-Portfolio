@@ -24,7 +24,7 @@ Repository containing portfolio of data science projects completed for academic,
 
 - [Managing Machine Learning:](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/ML%20Micro%20Projects/ML_Pipelines.ipynb) Workflows with Scikit-learn Pipelines
 
-- [Social Network Analysis Using Gephi]
+- [Social Network Analysis Using Gephi](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/Advanced_Network_Analytics.ipynb)
 
 - ## Web-Crawlers
 
