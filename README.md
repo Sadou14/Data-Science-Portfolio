@@ -18,7 +18,7 @@ Repository containing portfolio of data science projects completed for academic,
 
 - [ML with Multiple Linear Regression:](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/ML%20Micro%20Projects/MultipleLinearRegression.ipynb) Using Multiple Linear Regression to predict gas consumptions.
 
-- [Neural Network that predicts the outcome of diabets]()
+- [Neural Network that predicts the outcome of diabets](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/ML%20Micro%20Projects/ML_Neural_Network.ipynb)
 
 - [Binary classification with Random Forest Regressor](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/ML%20Micro%20Projects/RandomForestRegressor.ipynb)
 
