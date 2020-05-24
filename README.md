@@ -24,6 +24,8 @@ Repository containing portfolio of data science projects completed for academic,
 
 - [Managing Machine Learning:](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/ML%20Micro%20Projects/ML_Pipelines.ipynb) Workflows with Scikit-learn Pipelines
 
+- [Social Network Analysis Using Gephi]
+
 - ## Web-Crawlers
 
   - [Web crawling:](https://github.com/Sadou14/Web-Crawlers/blob/master/Web_Crawling_ScrapingClub.ipynb) Using Xpath to web crawlers or scrape website, Xpath a powerful framework for extracting, processing, and storing web     data.
