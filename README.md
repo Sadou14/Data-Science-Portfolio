@@ -16,7 +16,7 @@ Repository containing portfolio of data science projects completed for academic,
 
 - ## Micro Projects:
 
-- ML with Multiple Linear Regression Using Multiple Linear Regression to predict gas consumptions.
+- [ML with Multiple Linear Regression:](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/ML%20Micro%20Projects/MultipleLinearRegression.ipynb) Using Multiple Linear Regression to predict gas consumptions.
 
 - ## Web-Crawlers
 
