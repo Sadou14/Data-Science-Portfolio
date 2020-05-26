@@ -26,7 +26,7 @@ Repository containing portfolio of data science projects completed for academic,
 
 - [Social Network Analysis Using Gephi](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/Advanced_Network_Analytics.ipynb)
 
-- Data Visualization Using Plotly Library for Interactive Data Visualization in Python
+- [Data Visualization:] Using Plotly Library for Interactive Data Visualization in Python(https://github.com/Sadou14/Data-Science-Portfolio/blob/master/ML%20Micro%20Projects/datavisualization.ipynb)
 
 - ## Web-Crawlers
 
