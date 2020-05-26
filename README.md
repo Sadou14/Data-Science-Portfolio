@@ -26,6 +26,8 @@ Repository containing portfolio of data science projects completed for academic,
 
 - [Social Network Analysis Using Gephi](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/Advanced_Network_Analytics.ipynb)
 
+- Data Visualization Using Plotly Library for Interactive Data Visualization in Python
+
 - ## Web-Crawlers
 
   - [Web crawling:](https://github.com/Sadou14/Web-Crawlers/blob/master/Web_Crawling_ScrapingClub.ipynb) Using Xpath to web crawlers or scrape website, Xpath a powerful framework for extracting, processing, and storing web data.
