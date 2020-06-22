@@ -31,7 +31,7 @@ Repository containing portfolio of data science projects completed for academic,
 - [Data Visualization:](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/ML%20Micro%20Projects/datavisualization.ipynb)
  Using Plotly Library for Interactive Data Visualization in Python.
  
- - [Data Analysis]()I love how quickly I can analyze data using pivot tables. With one click of my mouse, I can drill down into the granular details about a certain product category, or zoom out and get a high-level overview of the data at hand.
+ - [Data Analysis](https://github.com/Sadou14/Data-Science-Portfolio/blob/master/ML%20Micro%20Projects/data%20analysis.ipynb)I love how quickly I can analyze data using pivot tables. With one click of my mouse, I can drill down into the granular details about a certain product category, or zoom out and get a high-level overview of the data at hand.
  
 - ## Web-Crawlers
 
